@@ -1,10 +1,10 @@
-[package]
 id = "bruno"
 name = "Bruno"
 version = "0.1.0"
 schema_version = 1
 authors = ["Wouter Leistra"]
 description = "Bruno (.bru) language support for Zed"
+repository = "https://github.com/freska-fi/zed-bruno"
 
 [grammars.bruno]
 repository = "https://github.com/Scalamando/tree-sitter-bruno"
