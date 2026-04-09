@@ -8,4 +8,4 @@ repository = "https://github.com/freska-fi/zed-bruno"
 
 [grammars.bruno]
 repository = "https://github.com/freska-fi/tree-sitter-bruno"
-rev = "82c9674"
+rev = "82c9674c0b6c3815b90355364e990b2355f68cc1"
